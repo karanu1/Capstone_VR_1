@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//레이저 포인터 클릭 처리 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
